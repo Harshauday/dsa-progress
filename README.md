@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harshauday/dsa-progress/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Harshauday/dsa-progress/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Harshauday/dsa-progress/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Harshauday/dsa-progress/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harshauday/dsa-progress/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Harshauday/dsa-progress/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Harshauday/dsa-progress/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/Harshauday/dsa-progress/tree/master/0940-distinct-subsequences-ii) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Harshauday/dsa-progress/tree/master/1096-brace-expansion-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harshauday/dsa-progress/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
