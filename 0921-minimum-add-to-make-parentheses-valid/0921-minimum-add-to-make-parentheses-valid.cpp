@@ -17,11 +17,6 @@ public:
                 }
             }
         }
-        int ans=0;
-        while(!st.empty()){
-            st.pop();
-            ans++;
-        }
-        return ans;
+        return st.size();
     }
 };
