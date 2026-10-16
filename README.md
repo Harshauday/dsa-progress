@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshauday/dsa-progress/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshauday/dsa-progress/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshauday/dsa-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Harshauday/dsa-progress/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshauday/leetcode-progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Harshauday/dsa-progress/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/Harshauday/dsa-progress/tree/master/3524-find-x-value-of-array-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harshauday/dsa-progress/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Harshauday/dsa-progress/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshauday/dsa-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Harshauday/dsa-progress/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Harshauday/dsa-progress/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshauday/dsa-progress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Harshauday/dsa-progress/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshauday/dsa-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Harshauday/dsa-progress/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Harshauday/dsa-progress/tree/master/3525-find-x-value-of-array-ii) |
 ## Backtracking
 |  |
@@ -260,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harshauday/dsa-progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Harshauday/dsa-progress/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
