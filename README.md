@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Harshauday/dsa-progress/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Harshauday/dsa-progress/tree/master/0118-pascals-triangle) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshauday/dsa-progress/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/Harshauday/dsa-progress/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harshauday/dsa-progress/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshauday/dsa-progress/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harshauday/dsa-progress/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshauday/dsa-progress/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Harshauday/dsa-progress/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Harshauday/dsa-progress/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Harshauday/dsa-progress/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
