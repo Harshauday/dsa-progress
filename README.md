@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Harshauday/dsa-progress/tree/master/0118-pascals-triangle) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshauday/dsa-progress/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshauday/dsa-progress/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/Harshauday/dsa-progress/tree/master/0485-max-consecutive-ones) |
 | [1254-number-of-closed-islands](https://github.com/Harshauday/dsa-progress/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Harshauday/dsa-progress/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harshauday/dsa-progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
