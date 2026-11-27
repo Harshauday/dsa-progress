@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Harshauday/dsa-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Harshauday/dsa-progress/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Harshauday/dsa-progress/tree/master/0118-pascals-triangle) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harshauday/dsa-progress/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Harshauday/dsa-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Harshauday/dsa-progress/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Harshauday/dsa-progress/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Harshauday/dsa-progress/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
